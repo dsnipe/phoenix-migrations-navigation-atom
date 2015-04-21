@@ -1,0 +1,5 @@
+'atom-text-editor':
+  'alt-shift-m': 'phoenix-migrations-navigation:latest'
+
+'atom-text-editor.vim-mode.command-mode:not(.mini)':
+  'l m': 'phoenix-migrations-navigation:latest'

@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Phoenix Migrations Navigation'
+      'submenu': [
+        { 'label': 'Find Latest Migration', 'command': 'phoenix-migrations-navigation:latest' }
+      ]
+    ]
+  }
+]

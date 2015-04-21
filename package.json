@@ -1,0 +1,15 @@
+{
+  "name": "phoenix-migrations-navigation",
+  "main": "./lib/phoenix-migrations-navigation",
+  "version": "0.5.0",
+  "description": "Opens the list (WIP) or latest migration in a Phoenix app",
+  "activationEvents": [
+    "phoenix-migrations-navigation:latest"
+  ],
+  "repository": "https://github.com/dsnipe/phoenix-migrations-navigation-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
