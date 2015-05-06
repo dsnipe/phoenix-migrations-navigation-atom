@@ -14,10 +14,11 @@ Usage
 
 ### Via keymap
 1. Open up your Phoenix project *(note: for the plugin to work the project must have been opened in Atom at its root)*.
-2. Type "ALT-SHIFT-M" of "l m" in Vim-mode (Command), and there it is, your latest migration!
+2. Type "ALT-SHIFT-M", and there it is, your latest migration!
 
+Command for custom keymapping: `phoenix-migrations-navigation:latest`
 
-TODO:
+##TODO:
 - open list of migrations in pallette
 
 Thanks
