@@ -1,7 +1,7 @@
 {
   "name": "phoenix-migrations-navigation",
   "main": "./lib/phoenix-migrations-navigation",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Opens the list (WIP) or latest migration in a Phoenix app",
   "activationCommands": [
     "phoenix-migrations-navigation:latest"
