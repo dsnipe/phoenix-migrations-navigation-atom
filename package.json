@@ -1,10 +1,12 @@
 {
   "name": "phoenix-migrations-navigation",
   "main": "./lib/phoenix-migrations-navigation",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Opens the list (WIP) or latest migration in a Phoenix app",
   "activationCommands": {
-    "atom-workspace": ["phoenix-migrations-navigation:latest"]
+    "atom-workspace": [
+      "phoenix-migrations-navigation:latest"
+    ]
   },
   "repository": "https://github.com/dsnipe/phoenix-migrations-navigation-atom",
   "license": "MIT",
